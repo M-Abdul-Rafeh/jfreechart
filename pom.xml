@@ -238,4 +238,8 @@
             </build>
         </profile>
     </profiles>
+         <properties>
+  <sonar.organization>m-abdul-rafeh</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
 </project>
